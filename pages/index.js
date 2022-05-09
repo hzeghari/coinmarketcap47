@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
 
       <main className="">
-        <HelloTailwind message="Hello Tailwind!" />
+        <HelloTailwind message="Hello Tailwind!!!" />
       </main>
 
       {/* <footer className={styles.footer}>
